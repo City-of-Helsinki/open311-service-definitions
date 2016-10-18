@@ -90,4 +90,49 @@
 		<keywords></keywords>
 		<group>Other</group>
 	</service>
+	<service>
+		<service_code>2805</service_code>
+		<service_name>Fostran och utbildning</service_name>
+		<description>Fostran och utbildning</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>barnomsorg,förskoleundervisning,grundläggande undervisning,gymnasie- och yrkesutbildning,svenska tjänster</keywords>
+                <group>Sektorer</group>
+	</service>
+	<service>
+		<service_code>2806</service_code>
+		<service_name>Stadsmiljö</service_name>
+		<description></description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>markanänvändning,stadsstruktur,byggnader,allmänna områden,tillstånd,räddningsnämnden</keywords>
+		<group>Sektorer</group>
+	</service>
+	<service>
+		<service_code>2807</service_code>
+		<service_name>Kultur och fritid</service_name>
+		<description>Kultur och fritid</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>kultur,idrott,ungdomar</keywords>
+		<group>Sektorer</group>
+	</service>
+	<service>
+		<service_code>2808</service_code>
+		<service_name>Social- och hälsovård</service_name>
+		<description>Social- och hälsovård</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>familjtjänster,socialtjänster,hälsotjänster,missbrukartjänster,sjukhustjänster,rehabiliteringstjänster,omsorgstjänster</keywords>
+		<group>Sektorer</group>
+	</service>
+	<service>
+		<service_code>2809</service_code>
+		<service_name>Allmän respons</service_name>
+		<description>Allmän respons</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>allmän response</keywords>
+		<group>Sektorer</group>
+	</service>
 </services>

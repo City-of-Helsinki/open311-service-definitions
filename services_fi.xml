@@ -90,4 +90,49 @@
 		<keywords></keywords>
 		<group>Muut korjattavat asiat</group>
 	</service>
+	<service>
+		<service_code>2805</service_code>
+		<service_name>Kasvatus ja koulutus</service_name>
+		<description>Kasvatuksen ja koulutuksen toimiala</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>varhaiskasvatus,esiopetus,perusopetus,lukio,ammatillinen koulutus</keywords>
+		<group>Toimialat</group>
+	</service>
+	<service>
+		<service_code>2806</service_code>
+		<service_name>Kaupunkiympäristö</service_name>
+		<description>Kaupunkiympäristö</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>maankäyttö,kaupunkirakenne,rakennukset,yleiset alueet,luvat</keywords>
+		<group>Toimialat</group>
+	</service>
+	<service>
+		<service_code>2807</service_code>
+		<service_name>Kulttuuri ja vapaa-aika</service_name>
+		<description>Kulttuuri ja vapaa-aika</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>kulttuuri,taide,vapaa-aika,ruotsinkielinen työväenopisto</keywords>
+		<group>Toimialat</group>
+	</service>
+	<service>
+		<service_code>2808</service_code>
+		<service_name>Sosiaali- ja terveyspalvelut</service_name>
+		<description>Sosiaali- ja terveystoimiala</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>perhepalvelut,sosiaalipalvelut,terveys,päihdepalvelut,sairaalapalvelut,kuntoutus,hoivapalvelut</keywords>
+		<group>Toimialat</group>
+	</service>
+	<service>
+		<service_code>2809</service_code>
+		<service_name>Yleinen ja muu palaute</service_name>
+		<description>Keskushallintoa tai useita toimialoja tai muita asioita koskeva palaute</description>
+		<metadata>false</metadata>
+		<type>realtime</type>
+		<keywords>yleinen palaute</keywords>
+		<group>Toimialat</group>
+	</service>
 </services>
