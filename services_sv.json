@@ -101,7 +101,7 @@
 	{
 		"service_code":"2806",
 		"service_name":"Stadsmiljö",
-		"description":"Kaupunkiympäristö",
+		"description":"Stadsmiljö",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"markanänvändning,stadsstruktur,byggnader,allmänna områden,tillstånd,räddningsnämnden",
