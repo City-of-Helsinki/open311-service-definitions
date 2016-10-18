@@ -2,7 +2,7 @@
 	{
 		"service_code":"172",
 		"service_name":"Vandalism",
-		"description":"Ge respons om du hittar egendom eller utrustning ‰r trasig.",
+		"description":"Ge respons om du hittar egendom eller utrustning √§r trasig.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "bench,parks,trashbins",
@@ -10,8 +10,8 @@
 	},
 	{
 		"service_code":"246",
-		"service_name":"Sanitation kr‰nkning",
-		"description":"Rapport om du hittar skr‰p eller ˆverfyllda soptunnor.",
+		"service_name":"Sanitation kr√§nkning",
+		"description":"Rapport om du hittar skr√§p eller √∂verfyllda soptunnor.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "garbage,debris",
@@ -20,7 +20,7 @@
 	{
 		"service_code":"176",
 		"service_name":"Klottersanering",
-		"description":"Rapport om graffiti eller andra mÂlningar behˆver tas bort.",
+		"description":"Rapport om graffiti eller andra m√•lningar beh√∂ver tas bort.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "graffiti",
@@ -28,8 +28,8 @@
 	},
 	{
 		"service_code":"171",
-		"service_name":"PotthÂl",
-		"description":"Rapportera potthÂl i allm‰nna gator.",
+		"service_name":"Potth√•l",
+		"description":"Rapportera potth√•l i allm√§nna gator.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "pothole,street condition",
@@ -37,7 +37,7 @@
 	},
 	{
 		"service_code":"198",
-		"service_name":"V‰gm‰rken",
+		"service_name":"V√§gm√§rken",
 		"description":"Rapportera trasiga trafikskyltar",
 		"metadata":false,
 		"type":"realtime",
@@ -56,7 +56,7 @@
 	{
 		"service_code":"174",
 		"service_name":"Parker",
-		"description":"Rapport om nÂgot i parken behˆver Âtg‰rdas fixering.",
+		"description":"Rapport om n√•got i parken beh√∂ver √•tg√§rdas fixering.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"parks,flower,bush",
@@ -65,7 +65,7 @@
 	{
 		"service_code":"211",
 		"service_name":"Lekplatser och idrottsparker",
-		"description":"Rapport om utrustning pÂ lekplatser eller parker sport ‰r trasiga eller nÂgot annat det behˆver Âtg‰rdas.",
+		"description":"Rapport om utrustning p√• lekplatser eller parker sport √§r trasiga eller n√•got annat det beh√∂ver √•tg√§rdas.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"leikkipuisto,liikuntapaikka",
@@ -74,7 +74,7 @@
 	{
 		"service_code":"234",
 		"service_name":"Skogar",
-		"description":"Rapport om nÂgot i skogen mÂste tas om hand.",
+		"description":"Rapport om n√•got i skogen m√•ste tas om hand.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"forest,field",
@@ -82,8 +82,8 @@
 	},
 	{
 		"service_code":"180",
-		"service_name":"Annan frÂga som skall fastst‰llas",
-		"description":"Anv‰nd denna kategori om du har hittat nÂgot trasigt och det inte passar in i andra kategorier.",
+		"service_name":"Annan fr√•ga som skall fastst√§llas",
+		"description":"Anv√§nd denna kategori om du har hittat n√•got trasigt och det inte passar in i andra kategorier.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"",
@@ -95,16 +95,16 @@
 		"description":"Fostran och utbildning",
 		"metadata":false,
 		"type":"realtime",
-		"keywords":"barnomsorg,fˆrskoleundervisning,grundl‰ggande undervisning,gymnasie- och yrkesutbildning,svenska tj‰nster",
+		"keywords":"barnomsorg,f√∂rskoleundervisning,grundl√§ggande undervisning,gymnasie- och yrkesutbildning,svenska tj√§nster",
 		"group":"Sektorer"
 	},
 	{
 		"service_code":"2806",
-		"service_name":"Stadsmiljˆ",
-		"description":"Stadsmiljˆ",
+		"service_name":"Stadsmilj√∂",
+		"description":"Stadsmilj√∂",
 		"metadata":false,
 		"type":"realtime",
-		"keywords":"markan‰nv‰ndning,stadsstruktur,byggnader,allm‰nna omrÂden,tillstÂnd,r‰ddningsn‰mnden",
+		"keywords":"markan√§nv√§ndning,stadsstruktur,byggnader,allm√§nna omr√•den,tillst√•nd,r√§ddningsn√§mnden",
 		"group":"Sektorer"
 	},
 	{
@@ -118,20 +118,20 @@
 	},
 	{
 		"service_code":"2808",
-		"service_name":"Social- och h‰lsovÂrd",
-		"description":"Social- och h‰lsovÂrd",
+		"service_name":"Social- och h√§lsov√•rd",
+		"description":"Social- och h√§lsov√•rd",
 		"metadata":false,
 		"type":"realtime",
-		"keywords":"familjtj‰nster,socialtj‰nster,h‰lsotj‰nster,missbrukartj‰nster,sjukhustj‰nster,rehabiliteringstj‰nster,omsorgstj‰nster",
+		"keywords":"familjtj√§nster,socialtj√§nster,h√§lsotj√§nster,missbrukartj√§nster,sjukhustj√§nster,rehabiliteringstj√§nster,omsorgstj√§nster",
 		"group":"Sektorer"
 	},
 	{
 		"service_code":"2809",
-		"service_name":"Allm‰n respons",
-		"description":"Allm‰n respons",
+		"service_name":"Allm√§n respons",
+		"description":"Allm√§n respons",
 		"metadata":false,
 		"type":"realtime",
-		"keywords":"allm‰n response",
+		"keywords":"allm√§n response",
 		"group":"Sektorer"
 	}
 ]
