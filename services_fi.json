@@ -83,10 +83,55 @@
 	{
 		"service_code":"180",
 		"service_name":"Muu korjattava asia",
-		"description":"Onko joku muu asia joka vaatisi kaupungin toimia?",
+		"description":"Onko joku muu korjattava asia joka vaatisi kaupungin toimia?",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"",
 		"group":"Muut korjattavat asiat"
+	},
+	{
+		"service_code":"2805",
+		"service_name":"Kasvatus ja koulutus",
+		"description":"Kasvatuksen ja koulutuksen toimiala",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"varhaiskasvatus,esiopetus,perusopetus,lukio,ammatillinen koulutus",
+		"group":"Toimialat"
+	},
+	{
+		"service_code":"2806",
+		"service_name":"Kaupunkiympäristö",
+		"description":"Kaupunkiympäristö",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"maankäyttö,kaupunkirakenne,rakennukset,yleiset alueet,luvat",
+		"group":"Toimialat"
+	},
+	{
+		"service_code":"2807",
+		"service_name":"Kulttuuri ja vapaa-aika",
+		"description":"Kulttuuri ja vapaa-aika",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"kulttuuri,taide,vapaa-aika,ruotsinkielinen työväenopisto",
+		"group":"Toimialat"
+	},
+	{
+		"service_code":"2808",
+		"service_name":"Sosiaali- ja terveyspalvelut",
+		"description":"Sosiaali- ja terveystoimiala",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"perhepalvelut,sosiaalipalvelut,terveys,päihdepalvelut,sairaalapalvelut,kuntoutus,hoivapalvelut",
+		"group":"Toimialat"
+	},
+	{
+		"service_code":"2809",
+		"service_name":"Yleinen ja muu palaute",
+		"description":"Keskushallintoa tai useita toimialoja tai muita asioita koskeva palaute",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"yleinen palaute",
+		"group":"Toimialat"
 	}
 ]

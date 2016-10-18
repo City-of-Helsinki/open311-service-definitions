@@ -88,5 +88,50 @@
 		"type":"realtime",
 		"keywords":"",
 		"group":"Other"
+	},
+	{
+		"service_code":"2805",
+		"service_name":"Fostran och utbildning",
+		"description":"Fostran och utbildning",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"barnomsorg,förskoleundervisning,grundläggande undervisning,gymnasie- och yrkesutbildning,svenska tjänster",
+		"group":"Sektorer"
+	},
+	{
+		"service_code":"2806",
+		"service_name":"Stadsmiljö",
+		"description":"Kaupunkiympäristö",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"markanänvändning,stadsstruktur,byggnader,allmänna områden,tillstånd,räddningsnämnden",
+		"group":"Sektorer"
+	},
+	{
+		"service_code":"2807",
+		"service_name":"Kultur och fritid",
+		"description":"Kultur och fritid",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"kultur,idrott,ungdomar",
+		"group":"Sektorer"
+	},
+	{
+		"service_code":"2808",
+		"service_name":"Social- och hälsovård",
+		"description":"Social- och hälsovård",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"familjtjänster,socialtjänster,hälsotjänster,missbrukartjänster,sjukhustjänster,rehabiliteringstjänster,omsorgstjänster",
+		"group":"Sektorer"
+	},
+	{
+		"service_code":"2809",
+		"service_name":"Allmän respons",
+		"description":"Allmän respons",
+		"metadata":false,
+		"type":"realtime",
+		"keywords":"allmän response",
+		"group":"Sektorer"
 	}
 ]
