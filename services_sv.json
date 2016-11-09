@@ -2,7 +2,7 @@
 	{
 		"service_code":"370",
 		"service_name":"Vandalism",
-		"description":"Ge respons om du hittar egendom eller utrustning �r trasig.",
+		"description":"Ge respons om du hittar egendom eller utrustning är trasig.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "bench,parks,trashbins",
@@ -10,8 +10,8 @@
 	},
 	{
 		"service_code":"373",
-		"service_name":"Sanitation kr�nkning",
-		"description":"Rapport om du hittar skr�p eller �verfyllda soptunnor.",
+		"service_name":"Sanitation kränkning",
+		"description":"Rapport om du hittar skräp eller överfyllda soptunnor.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "garbage,debris",
@@ -20,7 +20,7 @@
 	{
 		"service_code":"374",
 		"service_name":"Klottersanering",
-		"description":"Rapport om graffiti eller andra m�lningar beh�ver tas bort.",
+		"description":"Rapport om graffiti eller andra målningar behöver tas bort.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "graffiti",
@@ -28,8 +28,8 @@
 	},
 	{
 		"service_code":"368",
-		"service_name":"Potth�l",
-		"description":"Rapportera potth�l i allm�nna gator.",
+		"service_name":"Potthål",
+		"description":"Rapportera potthål i allmänna gator.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "pothole,street condition",
@@ -37,7 +37,7 @@
 	},
 	{
 		"service_code":"425",
-		"service_name":"V�gm�rken",
+		"service_name":"Vägmärken",
 		"description":"Rapportera trasiga trafikskyltar",
 		"metadata":false,
 		"type":"realtime",
@@ -56,7 +56,7 @@
 	{
 		"service_code":"387",
 		"service_name":"Parker",
-		"description":"Rapport om n�got i parken beh�ver �tg�rdas fixering.",
+		"description":"Rapport om något i parken behöver åtgärdas fixering.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"parks,flower,bush",
@@ -65,7 +65,7 @@
 	{
 		"service_code":"439",
 		"service_name":"Lekplatser och idrottsparker",
-		"description":"Rapport om utrustning p� lekplatser eller parker sport �r trasiga eller n�got annat det beh�ver �tg�rdas.",
+		"description":"Rapport om utrustning på lekplatser eller parker sport är trasiga eller något annat det behöver åtgärdas.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"leikkipuisto,liikuntapaikka",
@@ -74,7 +74,7 @@
 	{
 		"service_code":"419",
 		"service_name":"Skogar",
-		"description":"Rapport om n�got i skogen m�ste tas om hand.",
+		"description":"Rapport om något i skogen måste tas om hand.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"forest,field",
@@ -82,8 +82,8 @@
 	},
 	{
 		"service_code":"381",
-		"service_name":"Annan fr�ga som skall fastst�llas",
-		"description":"Anv�nd denna kategori om du har hittat n�got trasigt och det inte passar in i andra kategorier.",
+		"service_name":"Annan fråga som skall fastställas",
+		"description":"Använd denna kategori om du har hittat något trasigt och det inte passar in i andra kategorier.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"",
