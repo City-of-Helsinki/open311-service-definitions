@@ -91,7 +91,7 @@
 		<group>Other</group>
 	</service>
 	<service>
-		<service_code>2805</service_code>
+		<service_code>1322</service_code>
 		<service_name>Fostran och utbildning</service_name>
 		<description>Fostran och utbildning</description>
 		<metadata>false</metadata>
@@ -100,7 +100,7 @@
                 <group>Sektorer</group>
 	</service>
 	<service>
-		<service_code>2806</service_code>
+		<service_code>1323</service_code>
 		<service_name>Stadsmiljö</service_name>
 		<description></description>
 		<metadata>false</metadata>
@@ -109,7 +109,7 @@
 		<group>Sektorer</group>
 	</service>
 	<service>
-		<service_code>2807</service_code>
+		<service_code>1324</service_code>
 		<service_name>Kultur och fritid</service_name>
 		<description>Kultur och fritid</description>
 		<metadata>false</metadata>
@@ -118,7 +118,7 @@
 		<group>Sektorer</group>
 	</service>
 	<service>
-		<service_code>2808</service_code>
+		<service_code>1325</service_code>
 		<service_name>Social- och hälsovård</service_name>
 		<description>Social- och hälsovård</description>
 		<metadata>false</metadata>
@@ -127,7 +127,7 @@
 		<group>Sektorer</group>
 	</service>
 	<service>
-		<service_code>2809</service_code>
+		<service_code>1326</service_code>
 		<service_name>Allmän respons</service_name>
 		<description>Allmän respons</description>
 		<metadata>false</metadata>

@@ -91,7 +91,7 @@
 		<group>Other</group>
 	</service>
 	<service>
-		<service_code>2805</service_code>
+		<service_code>1322</service_code>
 		<service_name>Education</service_name>
 		<description>Education</description>
 		<metadata>false</metadata>
@@ -100,7 +100,7 @@
 		<group>Sectors</group>
 	</service>
 	<service>
-		<service_code>2806</service_code>
+		<service_code>1323</service_code>
 		<service_name>City environment</service_name>
 		<description>City environment</description>
 		<metadata>false</metadata>
@@ -109,7 +109,7 @@
 		<group>Sectors</group>
 	</service>
 	<service>
-		<service_code>2807</service_code>
+		<service_code>1324</service_code>
 		<service_name>Culture and leisure</service_name>
 		<description>Culture and leisure</description>
 		<metadata>false</metadata>
@@ -118,7 +118,7 @@
 		<group>Sectors</group>
 	</service>
 	<service>
-		<service_code>2808</service_code>
+		<service_code>1325</service_code>
 		<service_name>Social services and health care</service_name>
 		<description>Social services and health care</description>
 		<metadata>false</metadata>
@@ -127,7 +127,7 @@
 		<group>Sectors</group>
 	</service>
 	<service>
-		<service_code>2809</service_code>
+		<service_code>1326</service_code>
 		<service_name>General and other feedback</service_name>
 		<description>Feedback concerning multiple sectors or the central administration</description>
 		<metadata>false</metadata>

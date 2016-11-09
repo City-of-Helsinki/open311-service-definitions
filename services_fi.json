@@ -90,7 +90,7 @@
 		"group":"Muut korjattavat asiat"
 	},
 	{
-		"service_code":"2805",
+		"service_code":"1322",
 		"service_name":"Kasvatus ja koulutus",
 		"description":"Kasvatuksen ja koulutuksen toimiala",
 		"metadata":false,
@@ -99,7 +99,7 @@
 		"group":"Toimialat"
 	},
 	{
-		"service_code":"2806",
+		"service_code":"1323",
 		"service_name":"Kaupunkiympäristö",
 		"description":"Kaupunkiympäristö",
 		"metadata":false,
@@ -108,7 +108,7 @@
 		"group":"Toimialat"
 	},
 	{
-		"service_code":"2807",
+		"service_code":"1324",
 		"service_name":"Kulttuuri ja vapaa-aika",
 		"description":"Kulttuuri ja vapaa-aika",
 		"metadata":false,
@@ -117,7 +117,7 @@
 		"group":"Toimialat"
 	},
 	{
-		"service_code":"2808",
+		"service_code":"1325",
 		"service_name":"Sosiaali- ja terveyspalvelut",
 		"description":"Sosiaali- ja terveystoimiala",
 		"metadata":false,
@@ -126,7 +126,7 @@
 		"group":"Toimialat"
 	},
 	{
-		"service_code":"2809",
+		"service_code":"1326",
 		"service_name":"Yleinen ja muu palaute",
 		"description":"Keskushallintoa tai useita toimialoja tai muita asioita koskeva palaute",
 		"metadata":false,

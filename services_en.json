@@ -90,7 +90,7 @@
 		"group":"Other"
 	},
 	{
-		"service_code":"2805",
+		"service_code":"1322",
 		"service_name":"Education",
 		"description":"Education",
 		"metadata":false,
@@ -99,7 +99,7 @@
 		"group":"Sectors"
 	},
 	{
-		"service_code":"2806",
+		"service_code":"1323",
 		"service_name":"City environment",
 		"description":"City environment",
 		"metadata":false,
@@ -108,7 +108,7 @@
 		"group":"Sectors"
 	},
 	{
-		"service_code":"2807",
+		"service_code":"1324",
 		"service_name":"Culture and leisure",
 		"description":"Culture and leisure",
 		"metadata":false,
@@ -117,7 +117,7 @@
 		"group":"Sectors"
 	},
 	{
-		"service_code":"2808",
+		"service_code":"1325",
 		"service_name":"Social services and health care",
 		"description":"Social services and health care",
 		"metadata":false,
@@ -126,7 +126,7 @@
 		"group":"Sectors"
 	},
 	{
-		"service_code":"2809",
+		"service_code":"1326",
 		"service_name":"General and other feedback",
 		"description":"Feedback concerning multiple sectors or the central administration",
 		"metadata":false,

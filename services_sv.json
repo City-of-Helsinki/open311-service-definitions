@@ -90,7 +90,7 @@
 		"group":"Other"
 	},
 	{
-		"service_code":"2805",
+		"service_code":"1322",
 		"service_name":"Fostran och utbildning",
 		"description":"Fostran och utbildning",
 		"metadata":false,
@@ -99,7 +99,7 @@
 		"group":"Sektorer"
 	},
 	{
-		"service_code":"2806",
+		"service_code":"1323",
 		"service_name":"Stadsmiljö",
 		"description":"Stadsmiljö",
 		"metadata":false,
@@ -108,7 +108,7 @@
 		"group":"Sektorer"
 	},
 	{
-		"service_code":"2807",
+		"service_code":"1324",
 		"service_name":"Kultur och fritid",
 		"description":"Kultur och fritid",
 		"metadata":false,
@@ -117,7 +117,7 @@
 		"group":"Sektorer"
 	},
 	{
-		"service_code":"2808",
+		"service_code":"1325",
 		"service_name":"Social- och hälsovård",
 		"description":"Social- och hälsovård",
 		"metadata":false,
@@ -126,7 +126,7 @@
 		"group":"Sektorer"
 	},
 	{
-		"service_code":"2809",
+		"service_code":"1326",
 		"service_name":"Allmän respons",
 		"description":"Allmän respons",
 		"metadata":false,
