@@ -1,43 +1,43 @@
-[ 
+ï»¿[ 
 	{
-		"service_code":"172",
+		"service_code":"370",
 		"service_name":"Vandalism",
-		"description":"Ge respons om du hittar egendom eller utrustning är trasig.",
+		"description":"Ge respons om du hittar egendom eller utrustning ï¿½r trasig.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "bench,parks,trashbins",
 		"group":"Sanitation"
 	},
 	{
-		"service_code":"246",
-		"service_name":"Sanitation kränkning",
-		"description":"Rapport om du hittar skräp eller överfyllda soptunnor.",
+		"service_code":"373",
+		"service_name":"Sanitation krï¿½nkning",
+		"description":"Rapport om du hittar skrï¿½p eller ï¿½verfyllda soptunnor.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "garbage,debris",
 		"group":"Sanitation"
 	},
 	{
-		"service_code":"176",
+		"service_code":"374",
 		"service_name":"Klottersanering",
-		"description":"Rapport om graffiti eller andra målningar behöver tas bort.",
+		"description":"Rapport om graffiti eller andra mï¿½lningar behï¿½ver tas bort.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "graffiti",
 		"group":"Sanitation"
 	},
 	{
-		"service_code":"171",
-		"service_name":"Potthål",
-		"description":"Rapportera potthål i allmänna gator.",
+		"service_code":"368",
+		"service_name":"Potthï¿½l",
+		"description":"Rapportera potthï¿½l i allmï¿½nna gator.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords": "pothole,street condition",
 		"group":"Traffic and street condition"
 	},
 	{
-		"service_code":"198",
-		"service_name":"Vägmärken",
+		"service_code":"425",
+		"service_name":"Vï¿½gmï¿½rken",
 		"description":"Rapportera trasiga trafikskyltar",
 		"metadata":false,
 		"type":"realtime",
@@ -45,7 +45,7 @@
 		"group":"Traffic and street condition"
 	},
 	{
-		"service_code":"199",
+		"service_code":"426",
 		"service_name":"Info tecken",
 		"description":"Rapport om info skyltar bryts",
 		"metadata":false,
@@ -54,36 +54,36 @@
 		"group":"Traffic and street condition"
 	},
 	{
-		"service_code":"174",
+		"service_code":"387",
 		"service_name":"Parker",
-		"description":"Rapport om något i parken behöver åtgärdas fixering.",
+		"description":"Rapport om nï¿½got i parken behï¿½ver ï¿½tgï¿½rdas fixering.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"parks,flower,bush",
 		"group":"Parks and forests"
 	},
 	{
-		"service_code":"211",
+		"service_code":"439",
 		"service_name":"Lekplatser och idrottsparker",
-		"description":"Rapport om utrustning på lekplatser eller parker sport är trasiga eller något annat det behöver åtgärdas.",
+		"description":"Rapport om utrustning pï¿½ lekplatser eller parker sport ï¿½r trasiga eller nï¿½got annat det behï¿½ver ï¿½tgï¿½rdas.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"leikkipuisto,liikuntapaikka",
 		"group":"Parks and forests"
 	},
 	{
-		"service_code":"234",
+		"service_code":"419",
 		"service_name":"Skogar",
-		"description":"Rapport om något i skogen måste tas om hand.",
+		"description":"Rapport om nï¿½got i skogen mï¿½ste tas om hand.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"forest,field",
 		"group":"Parks and forests"
 	},
 	{
-		"service_code":"180",
-		"service_name":"Annan fråga som skall fastställas",
-		"description":"Använd denna kategori om du har hittat något trasigt och det inte passar in i andra kategorier.",
+		"service_code":"381",
+		"service_name":"Annan frï¿½ga som skall faststï¿½llas",
+		"description":"Anvï¿½nd denna kategori om du har hittat nï¿½got trasigt och det inte passar in i andra kategorier.",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"",

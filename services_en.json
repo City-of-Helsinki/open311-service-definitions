@@ -1,6 +1,6 @@
-[ 
+﻿[ 
 	{
-		"service_code":"172",
+		"service_code":"370",
 		"service_name":"Vandalism",
 		"description":"Give feedback if you find that property or equipment is broken.",
 		"metadata":false,
@@ -9,7 +9,7 @@
 		"group":"Sanitation"
 	},
 	{
-		"service_code":"246",
+		"service_code":"373",
 		"service_name":"Sanitation violation",
 		"description":"Report if you find garbage or overflowing trash bins.",
 		"metadata":false,
@@ -18,7 +18,7 @@
 		"group":"Sanitation"
 	},
 	{
-		"service_code":"176",
+		"service_code":"374",
 		"service_name":"Graffiti removal",
 		"description":"Report if graffiti or other paintings need removal.",
 		"metadata":false,
@@ -27,7 +27,7 @@
 		"group":"Sanitation"
 	},
 	{
-		"service_code":"171",
+		"service_code":"368",
 		"service_name":"Potholes",
 		"description":"Report potholes in public streets.",
 		"metadata":false,
@@ -36,7 +36,7 @@
 		"group":"Traffic and street condition"
 	},
 	{
-		"service_code":"198",
+		"service_code":"425",
 		"service_name":"Traffic signs",
 		"description":"Report broken traffic signs",
 		"metadata":false,
@@ -45,7 +45,7 @@
 		"group":"Traffic and street condition"
 	},
 	{
-		"service_code":"199",
+		"service_code":"426",
 		"service_name":"Info signs",
 		"description":"Report if info signs or other signs needs.",
 		"metadata":false,
@@ -54,7 +54,7 @@
 		"group":"Traffic and street condition"
 	},
 	{
-		"service_code":"174",
+		"service_code":"387",
 		"service_name":"Parks",
 		"description":"Report if something in the park needs fixing fixing.",
 		"metadata":false,
@@ -63,7 +63,7 @@
 		"group":"Parks and forests"
 	},
 	{
-		"service_code":"211",
+		"service_code":"439",
 		"service_name":"Playgrounds and sports parks",
 		"description":"Report if equipment in the playgrounds or sport parks are broken or something else there needs fixing.",
 		"metadata":false,
@@ -72,7 +72,7 @@
 		"group":"Parks and forests"
 	},
 	{
-		"service_code":"234",
+		"service_code":"419",
 		"service_name":"Forests",
 		"description":"Report if something in forests needs to be taken care.",
 		"metadata":false,
@@ -81,7 +81,7 @@
 		"group":"Parks and forests"
 	},
 	{
-		"service_code":"180",
+		"service_code":"381",
 		"service_name":"Other issue to be fixed",
 		"description":"Use this category if you have found something broken and it does not fit into other categories.",
 		"metadata":false,

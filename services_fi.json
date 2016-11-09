@@ -1,6 +1,6 @@
-[ 
+﻿[ 
 	{
-		"service_code":"172",
+		"service_code":"370",
 		"service_name":"Ilkivalta",
 		"description": "Onko puistonpenkki heitetty ojaan tai infotaulu rikottu? Anna palautetta ilkivaltaan liittyen.",
 		"metadata":false,
@@ -9,7 +9,7 @@
 		"group":"Puhtaanapito"
 	},
 	{
-		"service_code":"246",
+		"service_code":"373",
 		"service_name":"Roskaaminen",
 		"description":"Ilmoita, jos havaitset suuria määriä roskia yleisillä alueilla, puistoissa tai metsissä.",
 		"metadata":false,
@@ -18,7 +18,7 @@
 		"group":"Puhtaanapito"
 	},
 	{
-		"service_code":"176",
+		"service_code":"374",
 		"service_name":"Töhryjen poisto",
 		"description":"Ilmoita, jos paikkoja tai seiniä on töhritty.",
 		"metadata":false,
@@ -27,7 +27,7 @@
 		"group":"Puhtaanapito"
 	},
 	{
-		"service_code":"171",
+		"service_code":"368",
 		"service_name":"Katujen kunto",
 		"description":"Onko tiessä kuoppa? Anna palautetta katujen kuntoon liittyen.",
 		"metadata":false,
@@ -36,7 +36,7 @@
 		"group":"Katujen kunto ja liikenne"
 	},
 	{
-		"service_code":"198",
+		"service_code":"425",
 		"service_name":"Liikennemerkit",
 		"description":"Ilmoita, jos liikennemerkki on ajettu nurin, vinossa tai siinä on muuta huomautettavaa.",
 		"metadata":false,
@@ -45,7 +45,7 @@
 		"group":"Katujen kunto ja liikenne"
 	},
 	{
-		"service_code":"199",
+		"service_code":"426",
 		"service_name":"Kyltit ja opasteet",
 		"description":"Ilmoita, jos kaupungin kylteissä ja opasteissa on huomautettavaa.",
 		"metadata":false,
@@ -54,7 +54,7 @@
 		"group":"Katujen kunto ja liikenne"
 	},
 	{
-		"service_code":"174",
+		"service_code":"387",
 		"service_name":"Puistot",
 		"description":"Ilmoita, jos huomaat puiston olevan huonossa kunnossa.",
 		"metadata":false,
@@ -63,7 +63,7 @@
 		"group":"Metsät ja puistot"
 	},
 	{
-		"service_code":"211",
+		"service_code":"439",
 		"service_name":"Leikki- ja liikuntapuistot",
 		"description":"Ilmoita, jos leikki- tai liikuntapuiston välineissä on huomautettavaa.",
 		"metadata":false,
@@ -72,7 +72,7 @@
 		"group":"Metsät ja puistot"
 	},
 	{
-		"service_code":"234",
+		"service_code":"419",
 		"service_name":"Metsät",
 		"description":"Ilmoita, jos metsä tarvitsee hoitoa.",
 		"metadata":false,
@@ -81,7 +81,7 @@
 		"group":"Metsät ja puistot"
 	},
 	{
-		"service_code":"180",
+		"service_code":"381",
 		"service_name":"Muu korjattava asia",
 		"description":"Onko joku muu asia joka vaatisi kaupungin toimia?",
 		"metadata":false,
