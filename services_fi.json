@@ -83,7 +83,7 @@
 	{
 		"service_code":"381",
 		"service_name":"Muu korjattava asia",
-		"description":"Onko joku muu asia joka vaatisi kaupungin toimia?",
+		"description":"Onko joku muu korjattava asia joka vaatisi kaupungin toimia?",
 		"metadata":false,
 		"type":"realtime",
 		"keywords":"",
